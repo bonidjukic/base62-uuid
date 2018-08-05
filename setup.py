@@ -13,7 +13,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     license='MIT License',
-    description='Django App to be used with BlinkMeet project to provide Base62UUIDMixin', # noqa
+    description='Django App which provides Base62UUIDMixin',
     long_description=README,
     url='git@github.com/bonidjukic/base62-uuid.git',
     author='Boni Đukić',

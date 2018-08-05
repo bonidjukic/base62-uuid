@@ -1,3 +1,3 @@
 # Base62 UUID
 
-Django App to be used with BlinkMeet project to provide Base62UUIDMixin.
+Django App which provides Base62UUIDMixin.
